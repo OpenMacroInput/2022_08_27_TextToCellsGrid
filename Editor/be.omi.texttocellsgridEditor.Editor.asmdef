@@ -1,0 +1,16 @@
+
+{                                                                   
+            "name": "be.omi.texttocellsgridEditor",          
+    "references": ["be.omi.texttocellsgrid","be.omi.detectappendfromtexts"
+],                                                              
+    "optionalUnityReferences": [],                                  
+    "includePlatforms": [                                           
+        "Editor"                                                    
+    ],                                                              
+    "excludePlatforms": [],                                         
+    "allowUnsafeCode": false,                                       
+    "overrideReferences": false,                                    
+    "precompiledReferences": [],                                    
+    "autoReferenced": true,                                         
+    "defineConstraints": []                                         
+}                                                                   

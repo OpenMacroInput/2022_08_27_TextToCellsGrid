@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.omi.texttocellsgrid",                              
+  "displayName": "Text To Cells Grid",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Convert text form csv file to string cells grid to be used and saved.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/OpenMacroInput/2022_08_27_TextToCellsGrid.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
